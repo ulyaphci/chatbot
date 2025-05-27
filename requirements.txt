@@ -1,11 +1,9 @@
-
-
-import streamlit as st
-import pandas as pd
-import nltk
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-import re
-from datetime import datetime
+streamlit 
+pandas 
+nltk
+sklearn.feature_extraction.text import TfidfVectorizer
+sklearn.metrics.pairwise import cosine_similarity
+nltk.corpus import stopwords
+nltk.tokenize import word_tokenize
+re
+datetime
