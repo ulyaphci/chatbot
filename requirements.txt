@@ -1,9 +1,7 @@
-streamlit 
-pandas 
-nltk
-sklearn.feature_extraction.text import TfidfVectorizer
-sklearn.metrics.pairwise import cosine_similarity
-nltk.corpus import stopwords
-nltk.tokenize import word_tokenize
+
 re
 datetime
+streamlit
+nltk
+pandas
+scikit-learn
